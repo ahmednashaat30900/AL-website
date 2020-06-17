@@ -28,7 +28,7 @@ color:white;
   text-align:center;
 }
 .disadvantages p{
-
+margin-left:-12px;
   font-size: 18px;
 }
 .disadvantages ol li{
