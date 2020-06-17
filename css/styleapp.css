@@ -1,0 +1,35 @@
+body{
+  font-family: arial;
+  font-size: 15px;
+  line-height: 1.5;
+  padding:0;
+  margin:0;
+  background-color: white;
+  margin-top:80px;
+}
+.navbar{
+	  position:fixed;
+	  width:100%;
+	  margin-top:-80px;
+	
+  }
+  .navbar li a:hover,
+.navbar li a:focus{
+	background:red;
+}
+.navbar-brand span{
+	color:red;
+}
+  table, th, td{
+    border:1px solid black;
+      border-collapse: collapse;
+	  margin-left:5px;
+  }
+  table{
+	  margin-right:10px;
+  }
+  .tab-content{
+	  margin-left:5px;
+	  margin-right:5px;
+  }
+  
