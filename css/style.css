@@ -8,7 +8,8 @@ body{
   background-image: url('../images/frt.jpg');
   background-repeat: no-repeat;
   background-attachment:fixed;
-  background-size:cover;
+  background-size:550px 800px;
+  height:1550px;
   margin-top:80px;
   }
   .navbar{
